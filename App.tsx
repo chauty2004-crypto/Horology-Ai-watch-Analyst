@@ -189,7 +189,7 @@ const App: React.FC = () => {
                 發現您的藏品<br/><span className="text-yellow-500 italic">真實價值</span>
               </h1>
               <p className="text-gray-400 text-lg max-w-lg mx-auto leading-relaxed">
-                利用先進的 Gemini AI 視覺識別與實時市場數據，即時獲取您的名錶估值報告 (支援多國貨幣)。
+                利用先進的 AI 視覺識別與實時市場數據，即時獲取您的名錶估值報告 (支援多國貨幣)。
               </p>
             </div>
 
