@@ -1,0 +1,7 @@
+{
+  "name": "Horology AI - Luxury Watch Appraisal",
+  "description": "Professional luxury watch identification and market valuation using Gemini Vision and Search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
